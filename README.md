@@ -5,7 +5,6 @@
 - This project can be used by the colleges/universities to generate the faculty report..
 - Technologies used: HTML, CSS, PHP, Bootstrap.
 
- 
 
 
 ## There are currently two pages to login and add faculty to database.
@@ -16,6 +15,23 @@
 
 
 ## PRE-REQUISITE: 
+
+## How to run:
+
+- make sure you already have xampp or wamp installed if you are on windows machine, mamp for mac , and lamp for linux.
+
+- clone this repository to your local machine or just download the zip.
+
+- Extract the zip file on your server.
+
+-  Run the queries of Sql dump(mentioned below) queries.
+
+- Now, we can run the project on server. 
+
+### ID - admin@admin.com
+### Password - password
+
+
 ### Sql dump:
 
 
